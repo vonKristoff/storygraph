@@ -50,6 +50,8 @@
     "compile:pages": "jade jade/views -H -o public/"
   },
   "dependencies": {
+    "event-emitter-es6": "^1.1.5",
+    "rxjs": "^5.4.2",
     "vue": "latest"
   }
 }
